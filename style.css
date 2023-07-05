@@ -155,7 +155,7 @@ i:hover {
 
 footer {
     border-top: 1px solid rgb(212, 140, 152);
-    padding: 25px;
+    padding: 15px;
     font-size: 10px;
 
 }
@@ -163,7 +163,7 @@ footer {
 #particles-js {
     z-index: -1;
     position: absolute;
-    height: 350vh;
+    height: 200vh;
 }
 
 @media all and (max-width:1180px) {
